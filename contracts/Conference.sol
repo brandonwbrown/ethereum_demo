@@ -7,7 +7,7 @@ contract Conference {
  	uint public numRegistrants;
  	uint public quota;
 
-    event Deposit(address _from, uint _amount);
+  event Deposit(address _from, uint _amount);
  	event Refund(address _to, uint _amount);
 
 
