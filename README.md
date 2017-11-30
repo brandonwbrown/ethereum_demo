@@ -45,5 +45,4 @@ $ npm run dev // server at localhost:8080
 
 ## Credits
 
-Credits for this code go to [eshon](https://github.com/eshon). I've merely created a wrapper to get people started. 
-
+Credits for this code go to [eshon](https://github.com/eshon). I've merely created a wrapper to get people started.
